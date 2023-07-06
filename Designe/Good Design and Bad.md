@@ -1,3 +1,4 @@
+https://www.youtube.com/playlist?list=PL8K0_g1wdQerwF_C2aL_ruzIJ9KG0in6h
 
 ### 1º
 CRTL + E
@@ -22,3 +23,9 @@ Menu - Ui - Camera work - Color Choice - Font - Animation - Character Design
 ***Smahs Bros*** = #HerarquiaVisual  Menu confuso, botões espalhados de forma confusa onde dificulta você os achar, em lugares errados.
 
 **Mario Party 8** = Muitas fontes diferentes. 
+
+
+
+
+#### 2º
+

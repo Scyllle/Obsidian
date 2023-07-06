@@ -2,12 +2,16 @@
 
  **UMA HORA POR DIA
  
+ *DIA PRÁTICO
+
 - [ ] Estácio
 - [ ] Programar
 - [ ] Japonês
-- [ ] Vídeo
 - [ ] Piano
-- [ ] Livro
-- [ ] Livro estudar
-- [ ] Escrever
+
+*DIA TEÓRICO
+
 - [ ] Desenhar
+- [ ] Escrever
+- [ ] Ler Estudo
+- [ ] Piano
